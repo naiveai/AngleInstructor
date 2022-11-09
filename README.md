@@ -7,8 +7,9 @@ but the latest successful Debug build's exe is still there (AngleInstructor/bin/
 and that'll work even on a modern version of Windows 10, as long as you run it from there.
 Thanks backwards compatability!
 
-If you don't want to download some random kid's program (for some reason), see
-[this video](https://youtu.be/DJ7U6NDJL9I) for a small demonstration.
+If you don't want to download some random kid's program (for some reason), see this video:
+
+https://user-images.githubusercontent.com/40498911/200937344-ef87c039-bcc0-48f7-9899-5a4fd9be038a.mp4
 
 It's really embarassing code, but I'm proud of it. I remember hours spent
 thinking through the details of the architecture, since so many of the angles
